@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umut Ferhat</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">Frontend Developer with a growing passion for Backend & AI | From Türkiye</h3>
 
 
 - 🌱 I’m currently learning **Python, OpenCV and Tesseract to extract text from images**
